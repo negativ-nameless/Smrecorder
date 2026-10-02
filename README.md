@@ -213,4 +213,4 @@ SMRecorder is offered as a full free version, providing all features and updates
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-02 18:17:41 UTC
+**Last updated:** 2026-10-02 22:52:41 UTC
